@@ -1,8 +1,10 @@
 # ERP-BITS
-Making ERP easier to access. Collecting data made easier with selenium
+Making ERP easier to access. 
 
-Made faster with multi threading
+Collecting data made easier with selenium for web automation.
 
-Made into a software. 
+Made concurrent with multi threading.
 
-Get in touch for download link
+Converted into a software using Tkinter. 
+
+Get in touch for download link.
